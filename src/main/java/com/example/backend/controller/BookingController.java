@@ -1,8 +1,6 @@
 package com.example.backend.controller;
 
 import com.example.backend.Booking;
-import com.example.backend.Destination;
-import com.example.backend.DestinationService;
 import com.example.backend.service.BookingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

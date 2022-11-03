@@ -1,5 +1,6 @@
-package com.example.backend;
+package com.example.backend.service;
 
+import com.example.backend.Destination;
 import com.example.backend.repository.DestinationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
